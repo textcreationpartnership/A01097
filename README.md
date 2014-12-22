@@ -36,7 +36,7 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-Imprinted for Edwarde White, and Thomas Man.A Wonderfull, strange and miraculous Astrologicall Prognostication for this yeere 1591.Discouering s
+Imprinted for Edwarde White, and Thomas Man.
 1. ¶ To the Readers health.
 
 #####Body#####
@@ -80,46 +80,40 @@ Imprinted for Edwarde White, and Thomas Man.A Wonderfull, strange and miraculous
 |6.|__edition__|1||
 |7.|__editionStmt__|1||
 |8.|__editorialDecl__|1||
-|9.|__encodingDesc__|1||
-|10.|__extent__|2||
-|11.|__fileDesc__|1||
-|12.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
-|13.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
-|14.|__label__|5||
-|15.|__langUsage__|1||
-|16.|__language__|1| @__ident__ (1) : eng (1)|
-|17.|__listPrefixDef__|1||
-|18.|__note__|8||
-|19.|__notesStmt__|2||
-|20.|__p__|11||
-|21.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
-|22.|__profileDesc__|1||
-|23.|__projectDesc__|1||
-|24.|__pubPlace__|2||
-|25.|__publicationStmt__|2||
-|26.|__publisher__|2||
-|27.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
-|28.|__revisionDesc__|1||
-|29.|__seriesStmt__|1||
-|30.|__sourceDesc__|1||
-|31.|__term__|3||
-|32.|__textClass__|1||
-|33.|__title__|5||
-|34.|__titleStmt__|2||
+|9.|__extent__|2||
+|10.|__idno__|6| @__type__ (6) : DLPS (1), STC (2), EEBO-CITATION (1), PROQUEST (1), VID (1)|
+|11.|__keywords__|1| @__scheme__ (1) : http://authorities.loc.gov/ (1)|
+|12.|__label__|5||
+|13.|__langUsage__|1||
+|14.|__language__|1| @__ident__ (1) : eng (1)|
+|15.|__listPrefixDef__|1||
+|16.|__note__|8||
+|17.|__notesStmt__|2||
+|18.|__p__|11||
+|19.|__prefixDef__|2| @__ident__ (2) : tcp (1), char (1)  •  @__matchPattern__ (2) : ([0-9\-]+):([0-9IVX]+) (1), (.+) (1)  •  @__replacementPattern__ (2) : http://eebo.chadwyck.com/downloadtiff?vid=$1&page=$2 (1), https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1 (1)|
+|20.|__projectDesc__|1||
+|21.|__pubPlace__|2||
+|22.|__publicationStmt__|2||
+|23.|__publisher__|2||
+|24.|__ref__|2| @__target__ (2) : https://creativecommons.org/publicdomain/zero/1.0/ (1), http://www.textcreationpartnership.org/docs/. (1)|
+|25.|__seriesStmt__|1||
+|26.|__sourceDesc__|1||
+|27.|__term__|3||
+|28.|__textClass__|1||
+|29.|__title__|5||
+|30.|__titleStmt__|2||
 
 
 ###Text Tag Usage###
 
 |No|element name|occ|attributes|
 |---|---|---|---|
-|1.|__body__|1||
-|2.|__closer__|1||
-|3.|__div__|9| @__type__ (9) : imprint (1), title_page (1), to_the_reader (1), text (1), part (5)|
-|4.|__front__|1||
-|5.|__g__|118| @__ref__ (118) : char:EOLhyphen (106), char:cmbAbbrStroke (12)|
-|6.|__head__|7||
-|7.|__hi__|38| @__rend__ (12) : sup (12)|
-|8.|__p__|77||
-|9.|__pb__|26| @__facs__ (26) : tcp:14106:1 (2), tcp:14106:2 (2), tcp:14106:3 (2), tcp:14106:4 (2), tcp:14106:5 (2), tcp:14106:6 (2), tcp:14106:7 (2), tcp:14106:8 (2), tcp:14106:9 (2), tcp:14106:10 (2), tcp:14106:11 (2), tcp:14106:12 (2), tcp:14106:13 (2)  •  @__rendition__ (2) : simple:additions (2)|
-|10.|__seg__|2| @__rend__ (2) : decorInit (2)|
-|11.|__signed__|1||
+|1.|__closer__|1||
+|2.|__div__|9| @__type__ (9) : imprint (1), title_page (1), to_the_reader (1), text (1), part (5)|
+|3.|__g__|118| @__ref__ (118) : char:EOLhyphen (106), char:cmbAbbrStroke (12)|
+|4.|__head__|7||
+|5.|__hi__|38| @__rend__ (12) : sup (12)|
+|6.|__p__|77||
+|7.|__pb__|26| @__facs__ (26) : tcp:14106:1 (2), tcp:14106:2 (2), tcp:14106:3 (2), tcp:14106:4 (2), tcp:14106:5 (2), tcp:14106:6 (2), tcp:14106:7 (2), tcp:14106:8 (2), tcp:14106:9 (2), tcp:14106:10 (2), tcp:14106:11 (2), tcp:14106:12 (2), tcp:14106:13 (2)  •  @__rendition__ (2) : simple:additions (2)|
+|8.|__seg__|2| @__rend__ (2) : decorInit (2)|
+|9.|__signed__|1||
